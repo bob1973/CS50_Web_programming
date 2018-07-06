@@ -3,3 +3,7 @@ Początkowa zawartość pliku
 2. Linia
 3. Linia
 4. Nowa linia w pliku
+ZMIANY CHECKOUT: dodanie_nowych_linii_01
+5. Kolejna linia
+6. Jeszcze jedna linia
+KONIEC ZMIAN W CHECKOUT: dodanie_nowych_linii_01
