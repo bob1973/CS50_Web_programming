@@ -11,3 +11,4 @@ KOLEJNE ZMIANY CHECKOUT: dodanie_nowych_linii_01
 7. Ostatnia linia
 KONIEC ZMIAN W CHECKOUT: dodanie_nowych_linii_01
 Linia dodana w MASTER
+Linia dodana w checkoucie WYWOLANIE KONFLIKTU
