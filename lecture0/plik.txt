@@ -7,3 +7,6 @@ ZMIANY CHECKOUT: dodanie_nowych_linii_01
 5. Kolejna linia
 6. Jeszcze jedna linia
 KONIEC ZMIAN W CHECKOUT: dodanie_nowych_linii_01
+KOLEJNE ZMIANY CHECKOUT: dodanie_nowych_linii_01
+7. Ostatnia linia
+KONIEC ZMIAN W CHECKOUT: dodanie_nowych_linii_01
